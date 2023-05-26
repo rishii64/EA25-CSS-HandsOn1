@@ -1,0 +1,42 @@
+h1{
+    color: red;
+}
+
+h2{
+    color:red;
+    font-style: italic
+}
+
+li{
+    color: rgb(118, 16, 16);
+}
+
+span{
+    font-weight: 600;
+}
+
+.item3{
+    text-decoration: line-through;
+}
+
+.item4{
+    background-color: yellow;
+}
+
+.item1{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p{
+    color: rgb(207, 98, 14);
+}
+
+.item2{
+    font-family: 'Times New Roman';
+    letter-spacing: 4px;
+}
+
+.item5{
+    background-color: yellow;
+}
